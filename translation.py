@@ -1,6 +1,6 @@
 class LuciferMoringstar(object):
 
-    DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎📺 𝙅𝙪𝙨𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥..
+    DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 📺 𝙅𝙪𝙨𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥..
 ✅️ 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙨 𝘼𝙙𝙢𝙞𝙣...
 ✅️ 𝙄 𝙒𝙄𝙇𝙇 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙊𝙑𝙄𝙀𝙎 𝙏𝙝𝙚𝙧𝙚 🎬
 ✅️ 💯 𝙉𝙤 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 𝙄𝙨𝙨𝙪𝙚 𝙞𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 🥰..,
